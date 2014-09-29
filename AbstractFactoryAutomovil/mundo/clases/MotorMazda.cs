@@ -10,7 +10,7 @@ namespace AbstractFactoryAutomovil.mundo.clases
     {
         public string darNombre()
         {
-            return "Motor Mazda";
+            return "Motor marca Mazda";
         }
     }
 }

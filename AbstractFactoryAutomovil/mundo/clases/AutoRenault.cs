@@ -10,7 +10,7 @@ namespace AbstractFactoryAutomovil.mundo.clases
     {
         public String darNombre()
         {
-            return "Auto Renault";
+            return "Auto marca Renault";
         }
     }
 }

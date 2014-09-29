@@ -10,7 +10,7 @@ namespace AbstractFactoryAutomovil.mundo.clases
     {
         public string darNombre()
         {
-            return "Carroceria Renault";
+            return "Carroceria marca Renault";
         }
     }
 }
